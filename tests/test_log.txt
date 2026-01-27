@@ -1,0 +1,10 @@
+============================= test session starts =============================
+platform win32 -- Python 3.13.8, pytest-9.0.2, pluggy-1.6.0 -- C:\Users\Baba\AppData\Local\Programs\Python\Python313\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\Baba\Documents\selenium-project\tests
+collecting ... collected 2 items
+
+test_download.py::test_sample_download PASSED                            [ 50%]
+test_upload.py::test_file_upload PASSED                                  [100%]
+
+============================= 2 passed in 32.89s ==============================
